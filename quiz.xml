@@ -1,0 +1,6 @@
+<?xml version="1.0"  ?>
+
+<quiz xmlns:xi="http://www.w3.org/2001/XInclude">
+  <question> <xi:include href="MultipleChoiceQuestion" parse="xml" xpointer=""/></question>
+  <question> <xi:include href="PairMatchingQuestion" parse="xml" xpointer=""/></question>
+</quiz>
